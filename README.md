@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Mint
-- 🌱 I’m currently learning ReactJs, NextJs and more about Python libraries!
-- ⚡ Fun fact: Noodle lover!
+**Hi, I’m Mint**<br>
+🌱 **Currently learning**: ReactJs, NextJs and more about Python libraries!<br>
+⚡ **Fun fact**: Noodle addicted!
